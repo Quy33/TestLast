@@ -49,6 +49,7 @@
 		6B6FC860269DE4A200D1B166 /* TestLastUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestLastUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6B6FC864269DE4A200D1B166 /* TestLastUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestLastUITests.swift; sourceTree = "<group>"; };
 		6B6FC866269DE4A200D1B166 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6B6FC872269DE50B00D1B166 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +80,7 @@
 		6B6FC836269DE49F00D1B166 = {
 			isa = PBXGroup;
 			children = (
+				6B6FC872269DE50B00D1B166 /* MyPlayground.playground */,
 				6B6FC841269DE49F00D1B166 /* TestLast */,
 				6B6FC858269DE4A200D1B166 /* TestLastTests */,
 				6B6FC863269DE4A200D1B166 /* TestLastUITests */,
